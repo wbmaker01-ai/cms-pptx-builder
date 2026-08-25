@@ -1,0 +1,4 @@
+interface:
+  display_name: "CMS PPTX Builder"
+  short_description: "자료 기반 수업 PPTX를 계획·제작·검수합니다"
+  default_prompt: "Use $cms-pptx-builder를 사용해 입력한 자료와 주제로 수업 PPTX 제작 계획을 세워 주세요."
