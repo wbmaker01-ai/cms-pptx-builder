@@ -1,4 +1,4 @@
 interface:
   display_name: "CMS PPTX Builder"
-  short_description: "자료 기반 수업 PPTX를 계획·제작·검수합니다"
-  default_prompt: "Use $cms-pptx-builder를 사용해 입력한 자료와 주제로 수업 PPTX 제작 계획을 세워 주세요."
+  short_description: "자료 기반 수업 PPTX를 호환 모드로 계획·제작·검수합니다"
+  default_prompt: "$cms-pptx-builder를 사용해 입력한 자료와 주제로 수업 PPTX 제작 계획을 세워 주세요. Presentations가 없으면 호환 모드로 가능한 로컬 도구를 사용하고 검증 한계를 기록해 주세요."
